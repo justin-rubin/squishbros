@@ -1,94 +1,105 @@
 {
-    "specials": [
-        {
-            "every": "01-01",
-            "name": "Party Pupterfly",
-            "base": "Pup",
-            "feature": "terfly",
-            "color": "yellow",
-            "accessory": "party-hat",
-            "background": "fireworks",
-            "rarity": 3,
-            "note": "Happy new year, bro."
-        },
-        {
-            "every": "02-14",
-            "name": "Lovey Beartopus",
-            "base": "Bear",
-            "feature": "topus",
-            "color": "purple",
-            "accessory": "bow",
-            "background": "hearts",
-            "rarity": 3,
-            "note": "Eight arms for hugging."
-        },
-        {
-            "every": "07-04",
-            "name": "Sparkler Axocorn",
-            "base": "Axo",
-            "feature": "icorn",
-            "color": "blue",
-            "accessory": "sunglasses",
-            "background": "fireworks",
-            "rarity": 3,
-            "note": "Too cool for the fireworks."
-        },
-        {
-            "every": "10-31",
-            "name": "Witchy Catclops",
-            "base": "Cat",
-            "feature": "clops",
-            "color": "purple",
-            "accessory": "witch-hat",
-            "background": "spooky",
-            "rarity": 4,
-            "note": "Trick or treat, bro."
-        },
-        {
-            "date": "2026-11-13",
-            "name": "Sand Sharkolotl",
-            "base": "Cat",
-            "feature": "topus",
-            "color": "mint",
-            "accessory": "crown",
-            "background": "harvest",
-            "sidekick": "dragon-egg",
-            "rarity": 4,
-            "note": "An octopus or a cat?… įț ļęåðş ůš äļľ¿!§"
-        },
-        {
-            "date": "2026-11-14",
-            "name": "Adventurous Pupclops",
-            "base": "Pup",
-            "feature": "clops",
-            "color": "yellow",
-            "accessory": "adventurer",
-            "background": "dungeon",
-            "sidekick": "slime",
-            "rarity": 4,
-            "note": "He went to find a chest, but found a pet slime"
-        },
-        {
-            "date": "2026-11-15",
-            "name": "cool Axoicorn",
-            "base": "Axo",
-            "feature": "icorn",
-            "color": "mint",
-            "accessory": "sunglasses",
-            "background": "stars",
-            "rarity": 5,
-            "note": "Blink and you miss it."
-        },
-        {
-            "every": "12-25",
-            "name": "Santa Bunshark",
-            "base": "Bun",
-            "feature": "shark",
-            "color": "red",
-            "accessory": "santa-hat",
-            "background": "snow",
-            "rarity": 4,
-            "note": "Ho ho bro."
-        }
-    ]
+  "specials": [
+    {
+      "every": "01-01",
+      "name": "Party Pupterfly",
+      "base": "Pup",
+      "feature": "terfly",
+      "color": "yellow",
+      "accessory": "party-hat",
+      "background": "fireworks",
+      "rarity": 3,
+      "note": "Happy new year, bro."
+    },
+    {
+      "every": "02-14",
+      "name": "Lovey Beartopus",
+      "base": "Bear",
+      "feature": "topus",
+      "color": "purple",
+      "accessory": "bow",
+      "background": "hearts",
+      "rarity": 3,
+      "note": "Eight arms for hugging."
+    },
+    {
+      "every": "07-04",
+      "name": "Sparkler Axocorn",
+      "base": "Axo",
+      "feature": "icorn",
+      "color": "blue",
+      "accessory": "sunglasses",
+      "background": "fireworks",
+      "rarity": 3,
+      "note": "Too cool for the fireworks."
+    },
+    {
+      "every": "10-31",
+      "name": "Witchy Catclops",
+      "base": "Cat",
+      "feature": "clops",
+      "color": "purple",
+      "accessory": "witch-hat",
+      "background": "spooky",
+      "rarity": 4,
+      "note": "Trick or treat, bro."
+    },
+    {
+      "date": "2026-11-13",
+      "name": "Sand Sharkolotl",
+      "base": "Cat",
+      "feature": "topus",
+      "color": "mint",
+      "accessory": "crown",
+      "background": "harvest",
+      "sidekick": "dragon-egg",
+      "rarity": 4,
+      "note": "An octopus or a cat?… įț ļęåðş ůš äļľ¿!§"
+    },
+    {
+      "date": "2026-11-14",
+      "name": "Adventurous Pupclops",
+      "base": "Pup",
+      "feature": "clops",
+      "color": "yellow",
+      "accessory": "adventurer",
+      "background": "dungeon",
+      "sidekick": "slime",
+      "rarity": 4,
+      "note": "He went to find a chest, but found a pet slime"
+    },
+    {
+      "date": "2026-11-15",
+      "name": "cool Axoicorn",
+      "base": "Axo",
+      "feature": "icorn",
+      "color": "mint",
+      "accessory": "sunglasses",
+      "background": "stars",
+      "rarity": 5,
+      "note": "Blink and you miss it."
+    },
+    {
+      "date": "2026-11-16",
+      "name": "Princess Donut",
+      "base": "Cat",
+      "feature": "crown",
+      "color": "orange",
+      "accessory": "star-shades",
+      "background": "dungeon",
+      "rarity": 3,
+      "note": "I AM YELLING CARL!"
+    },
+    {
+      "every": "12-25",
+      "name": "Santa Bunshark",
+      "base": "Bun",
+      "feature": "shark",
+      "color": "red",
+      "accessory": "santa-hat",
+      "background": "snow",
+      "rarity": 4,
+      "note": "Ho ho bro."
+    }
+  ]
 }
