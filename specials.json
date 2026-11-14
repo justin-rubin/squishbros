@@ -91,6 +91,18 @@
       "note": "I AM YELLING CARL!"
     },
     {
+      "date": "2026-11-17",
+      "name": "cute axo",
+      "base": "Axo",
+      "feature": "none",
+      "color": "blue",
+      "accessory": "headphones",
+      "background": "fireworks",
+      "sidekick": "goblin",
+      "rarity": 4,
+      "note": "Only here today, bro."
+    },
+    {
       "every": "12-25",
       "name": "Santa Bunshark",
       "base": "Bun",
